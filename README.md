@@ -1,5 +1,5 @@
 
-![baniere](img.html)
+![baniere](https://github.com/senegas-arnaud/image/blob/main/baniere.png?raw=true)
 
 Bienvenue sur mon dépôt GitHub ! Je suis un étudiant souhaitant se spécialiser dans le codage Python. 🎓🐍
 
