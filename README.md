@@ -1,5 +1,5 @@
 
-![baniere](https://drive.google.com/file/d/14yy3poS7fu2cStda5rwzV9sDN8y5AI26/view?usp=drive_link)
+![baniere](img.html)
 
 Bienvenue sur mon dépôt GitHub ! Je suis un étudiant souhaitant se spécialiser dans le codage Python. 🎓🐍
 
