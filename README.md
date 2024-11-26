@@ -1,5 +1,5 @@
 
-![baniere](C:\Users\arnau\Pictures\baniere.png)
+![baniere](https://drive.google.com/file/d/14yy3poS7fu2cStda5rwzV9sDN8y5AI26/view?usp=drive_link)
 
 Bienvenue sur mon dépôt GitHub ! Je suis un étudiant souhaitant se spécialiser dans le codage Python. 🎓🐍
 
