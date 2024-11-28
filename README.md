@@ -21,6 +21,6 @@ Ce projet réalisé en Html et CSS n'est autre qu'un Fan site sur Eric et Ramzy 
 ## 📬 Me contacter
 
 - Email : [arnaud.senegas@laplateforme.io]
-- LinkedIn : A venir
+- LinkedIn : https://www.linkedin.com/in/arnaud-s%C3%A9n%C3%A9gas-7a613233b/
 
 🎉 **Merci d’avoir visité mon dépôt !** N'hésitez pas à explorer, tester et donner votre feedback. 😊
